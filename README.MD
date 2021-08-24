@@ -14,3 +14,5 @@ Your score will be displayed in the end!
 
 ![image](https://user-images.githubusercontent.com/79115388/130551388-2d008980-2103-46b3-a363-3fffe7e65e84.png)
 
+# Bibliography
+Stellman, A., &amp; Greene, J. (2021). Head first C#: A Learner's guider to real-world programming with C#, Xaml &amp; .Net. O'Reilly. 
